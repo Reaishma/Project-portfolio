@@ -203,17 +203,6 @@ Machine learning models and data analytics platforms for business intelligence a
 
 ---
 
-## 🛠️ Built With
-
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Charts**: Chart.js for data visualization
-- **Fonts**: Google Fonts (Bebas Neue, Netflix Sans)
-- **Design**: Netflix-inspired UI/UX patterns
-- **Hosting**: Replit Deployments
-- **Performance**: Optimized assets and lazy loading
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -253,4 +242,4 @@ Feel free to reach out for any exciting projects or opportunities!
 
 ---
 
-**© 2025 REAISHMA N. All rights reserved.**
+**© 2025 REAISHMA N**
