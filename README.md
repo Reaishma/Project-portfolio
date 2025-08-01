@@ -4,6 +4,12 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+
+## 🚀 Live portfolio 
+   
+    **Visit here** https://reaishma.github.io/Project-portfolio/
+
+
 ## 👨‍💻 About Me
 
 **Results-driven Technologist** specializing in designing and deploying scalable AI/ML and Cloud-native systems built on Microservices architecture. My expertise spans Full-Stack Development, Big Data engineering, and robust DevOps pipelines, all secured with advanced Cybersecurity practices. Passionate about leveraging transformative technologies like Blockchain and Quantum Computing for strategic business impact.
@@ -179,8 +185,7 @@ Machine learning models and data analytics platforms for business intelligence a
 
 ## 📞 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reaishma-n)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://reaishma.github.io/Project-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reaishma-n)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@reaishma.dev)
 
