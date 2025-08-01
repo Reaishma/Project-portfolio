@@ -7,9 +7,7 @@
 
 ## 🚀 Live portfolio 
    
-    **Visit here**   
-
-https://reaishma.github.io/Project-portfolio/
+    **Visit here**   https://reaishma.github.io/Project-portfolio/
 
 
 ## 👨‍💻 About Me
