@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
-![Hero section of digital portfolio ](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150321_1.jpg)
+![Hero section of digital portfolio](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150321_1.jpg)
 
 ## 🚀 Live portfolio 
    
@@ -75,6 +75,8 @@
 - **Features**: Carbon footprint tracking, sustainability insights, environmental reporting
 
 ### 📦 Supply Chain & Logistics
+
+![Enterprise supply chain management platform](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150435_1.jpg)
 
 #### Supply Chain Visibility Platform
 - **Description**: Real-time logistics tracking system for supply chain management
