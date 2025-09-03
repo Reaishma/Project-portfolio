@@ -22,6 +22,8 @@
 
 ## 🚀 Featured Projects
 
+![Trending projects](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150353_1.jpg)
+
 ### 🔐 Cybersecurity & Security Solutions
 
 #### SIEM Security Operations Center
