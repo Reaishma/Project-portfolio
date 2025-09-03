@@ -145,6 +145,9 @@ Advanced security solutions focusing on threat detection, incident response, and
 Innovative healthcare solutions leveraging AI and machine learning for medical research and patient care.
 
 ### 🔗 **Blockchain & Web3**
+
+![Block chain management system](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150424_1.jpg)
+
 Decentralized applications and blockchain-based solutions for various industry use cases.
 
 ### ☁️ **Cloud & DevOps**
