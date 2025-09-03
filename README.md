@@ -146,7 +146,7 @@ Innovative healthcare solutions leveraging AI and machine learning for medical r
 
 ### 🔗 **Blockchain & Web3**
 
-![Block chain management system](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150424_1.jpg)
+   ![Block chain management      system](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150424_1.jpg)
 
 Decentralized applications and blockchain-based solutions for various industry use cases.
 
