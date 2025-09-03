@@ -16,6 +16,7 @@
 **Results-driven Technologist** specializing in designing and deploying scalable AI/ML and Cloud-native systems built on Microservices architecture. My expertise spans Full-Stack Development, Big Data engineering, and robust DevOps pipelines, all secured with advanced Cybersecurity practices. Passionate about leveraging transformative technologies like Blockchain and Quantum Computing for strategic business impact.
 
 ---
+![Hero section of digital portfolio ]()
 
 ## 🚀 Featured Projects
 
