@@ -211,6 +211,7 @@ Machine learning models and data analytics platforms for business intelligence a
 - **Performance Optimized**: Fast loading times and smooth navigation
 
 ---
+![netflix design style](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150536_1.jpg)
 
 ## 📝 License
 
