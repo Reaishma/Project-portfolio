@@ -4,6 +4,8 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+---
+![Hero section of digital portfolio ](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150321_1.jpg)
 
 ## 🚀 Live portfolio 
    
@@ -16,7 +18,7 @@
 **Results-driven Technologist** specializing in designing and deploying scalable AI/ML and Cloud-native systems built on Microservices architecture. My expertise spans Full-Stack Development, Big Data engineering, and robust DevOps pipelines, all secured with advanced Cybersecurity practices. Passionate about leveraging transformative technologies like Blockchain and Quantum Computing for strategic business impact.
 
 ---
-![Hero section of digital portfolio ](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150321_1.jpg)
+
 
 ## 🚀 Featured Projects
 
